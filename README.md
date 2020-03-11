@@ -5,7 +5,7 @@ Execício aula 03 da disciplina de poo
 
 # APP
 
-Criar aplicação para mercadinho
+Criar aplicação para mercadinho, usuário vai poder simular compras 
 
 
 # Pessoa
@@ -20,7 +20,8 @@ Criar aplicação para mercadinho
  - comprador: Pessoa
  - lista: lista de itens
 
-   - compra(Pessoa)
+   - Compra(Pessoa)
+   - Compra(Pessoa, date)
    - fecharCompra()
    - comprar(Produto)
    - comprar(int, Produto)
